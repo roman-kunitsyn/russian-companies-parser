@@ -1,0 +1,2858 @@
+[
+  {
+    "title": "Accenture",
+    "action": "exiting Russia completely",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Acronis",
+    "action": "suspend operations in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Activision Blizzard",
+    "action": "suspend all sales in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Adenza",
+    "action": "suspend operations in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "AECOM",
+    "action": "suspend operations in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "AerCap",
+    "action": "cease lending to Russians",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Airbnb",
+    "action": "suspend bookings in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Air Products",
+    "action": "full divestiture from Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Alaska Airlines",
+    "action": "suspend Russian partnerships",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Alcoa",
+    "action": "suspend all business with Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Aldi",
+    "action": "remove products from Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Allen &amp; Overy",
+    "action": "refuse new Russian partnerships but continue existing",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "AMD",
+    "action": "suspend all sales to Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "American Airlines",
+    "action": "no flying over Russian airspace",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Asda",
+    "action": "remove products from Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Asian Infrastructure Investment Bank",
+    "action": "curtail Russian access to capital markets",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Asos&nbsp;",
+    "action": "suspend all shipments to Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Autodesk",
+    "action": "suspend operations in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Avery Dennison",
+    "action": "exit Russian operations",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Avid",
+    "action": "suspend all sales to Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Baker Botts",
+    "action": "suspend operations in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Baker McKenzie",
+    "action": "suspend services for all Kremlin entities only",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Baker Tilly",
+    "action": "gradual wind down of operations in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "BBDO",
+    "action": "exit Russian operations",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "BCG",
+    "action": "suspend all consulting in Russia&nbsp;",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "BlackRock",
+    "action": "curtail Russian access to capital markets",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Bolt",
+    "action": "suspend Russian partnerships",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Boohoo Group",
+    "action": "suspend all shipments to Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Booking",
+    "action": "suspend bookings in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "BP&nbsp;",
+    "action": "suspend operations/divest from 20% Rosneft stake",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "British American Tobacco",
+    "action": "suspend operations in Russia&nbsp;",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Brown-Forman",
+    "action": "suspend commercial operations in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Bryan Cave",
+    "action": "exit Russian operations",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Bumble",
+    "action": "suspend operations in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Carnival",
+    "action": "discontinue Russia itineraries&nbsp;",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Centrica",
+    "action": "exit gas supply partnership with Gazprom",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Clarivate",
+    "action": "exit Russian operations",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Clifford Chance",
+    "action": "suspend certain Russian relationships",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Coupa",
+    "action": "suspend operations in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Coursera",
+    "action": "suspend operations in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Crocs",
+    "action": "suspend D2C business",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Cummins",
+    "action": "exit Russian operations",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Daimler",
+    "action": "suspending all business in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "DB Schenker",
+    "action": "suspend all shipments to Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "DDB",
+    "action": "exit Russian operations",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Dechert",
+    "action": "suspend operations in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Deezer",
+    "action": "suspend operations in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Deloitte",
+    "action": "leaving Russia completely",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Delta Air Lines",
+    "action": "suspend agreement with Aeroflot",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Dentons",
+    "action": "exit Russian operations",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Dentsu International",
+    "action": "divest joint venture/leave Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "DLA Piper",
+    "action": "suspend certain operations in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "DXC Technology",
+    "action": "leaving Russia completely",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "EarthDaily Analytics",
+    "action": "suspend operations in Russia&nbsp;",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "eBay&nbsp;",
+    "action": "suspend all shipments to Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Electronic Arts",
+    "action": "suspend all operations in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Eni",
+    "action": "divest Russian pipeline",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "EPAM",
+    "action": "discontinue servicing Russian customers",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Equinor",
+    "action": "exit joint ventures in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Esri&nbsp;",
+    "action": "curtailing sales to Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Etsy",
+    "action": "deactivate all listings from Russian sellers",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Eurovision",
+    "action": "ban on all Russian competition",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Eversheds Sutherland",
+    "action": "close Russia office",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Expedia",
+    "action": "suspend bookings in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Exxon&nbsp;",
+    "action": "exit Rosneft partnership",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "EY",
+    "action": "leaving Russia completely",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Farfetch",
+    "action": "suspend all shipments to Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Fazer",
+    "action": "suspend operations in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "FICO",
+    "action": "exiting all work in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Ferragamo",
+    "action": "suspend all shipments to Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "FIFA",
+    "action": "ban Russian athletes from competing",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Fitch",
+    "action": "suspend operations in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Formula One",
+    "action": "suspend all operations in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Fortinet",
+    "action": "suspend operations in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Freshfields",
+    "action": "suspend certain Russian partnerships",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Geodis",
+    "action": "suspend all shipments to Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Global Foundries",
+    "action": "suspend all shipments to Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Grainpro",
+    "action": "suspend all operations in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Grammarly",
+    "action": "suspend operations in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Grant Thornton",
+    "action": "closing business in Russia&nbsp;",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Herbert Smith",
+    "action": "suspend operations in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Hogan Lovells",
+    "action": "exit Russian operations",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "ICBC",
+    "action": "curtail Russian access to capital markets",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Intercontinental Exchange",
+    "action": "curtail Russian access to capital markets",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "International Boxing Federation",
+    "action": "ban on all Russian competition",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "International Cat Federation",
+    "action": "ban Russian cats from competitions",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "International Cycling Union",
+    "action": "ban on all Russian competition",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "International Ice Hockey Federation",
+    "action": "ban on all Russian competition",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "International Skating Union",
+    "action": "ban on all Russian competition",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "International Tennis Federation",
+    "action": "suspend Russian partnerships",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "International Weightlifting Federation",
+    "action": "ban on all Russian competition",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Interpublic Group",
+    "action": "exit Russian operations",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "IOC",
+    "action": "ban Russian athletes from competing",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "J Sainsbury",
+    "action": "remove products from Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "JetBrains",
+    "action": "suspend all activity indefinitely",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Knight Frank",
+    "action": "suspend new investments in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Korean Air Lines",
+    "action": "no flying over Russian airspace",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "KPMG",
+    "action": "leaving Russia completely",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Kuehne + Nagel AG",
+    "action": "suspend all shipments to Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Latham &amp; Watkins",
+    "action": "suspend operations in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Linklaters&nbsp;",
+    "action": "suspend operations in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Live Nation Entertainment",
+    "action": "suspend all operations in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "London Stock Exchange Group",
+    "action": "curtail Russian access to capital markets",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Marsh McLennan",
+    "action": "exit operations in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "McKinsey",
+    "action": "suspend all consulting in Russia&nbsp;",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Monroe Energy",
+    "action": "suspend partnerships with Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Moody's",
+    "action": "suspend operations within Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Morgan Lewis",
+    "action": "suspend operations in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Morrisons",
+    "action": "remove products from Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "MSC&nbsp;",
+    "action": "suspend all shipments to Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "MSCI",
+    "action": "curtail Russian access to capital markets",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Nasdaq",
+    "action": "curtail Russian access to capital markets",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Netflix",
+    "action": "suspend operations in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Netscout",
+    "action": "suspend Russian operations",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "New Development Bank",
+    "action": "curtail Russian access to capital markets",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Norton Rose Fulbright",
+    "action": "exit from Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Norwegian Cruise Lines",
+    "action": "discontinue Russian itineraries",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Oceana Cruises",
+    "action": "discontinue Russian itineraries",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Omnicom Group, Inc.",
+    "action": "exit Russian operations",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Omnicom Media Group",
+    "action": "exit Russian operations&nbsp;",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "OMV",
+    "action": "divest Russian projects",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "OneWeb",
+    "action": "suspend use of Russian airspace",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Orkla",
+    "action": "exit Russian operations",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Par Pacific",
+    "action": "suspend partnerships with Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Paulig",
+    "action": "suspend operations in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Publicis Group",
+    "action": "cede ownership to local affiliates",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "PwC",
+    "action": "leaving Russia completely",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "R&amp;A",
+    "action": "ban on all Russian competition",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Radio Free Europe",
+    "action": "suspend operations in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Regent Seven Seas Cruises",
+    "action": "discontinue Russian itineraries",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Roku&nbsp;",
+    "action": "remove Kremlin-linked propaganda and ads&nbsp;",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Rolex",
+    "action": "suspend exports to Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "S&amp;P",
+    "action": "curtail Russian access to capital markets",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Sabre",
+    "action": "suspend partnership with Aeroflot",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Savills",
+    "action": "suspend new investments in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Shell",
+    "action": "suspend operations in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Signet Jewelers",
+    "action": "suspend operations in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Spotify",
+    "action": "closed office and other restrictions",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Squire Patton Boggs",
+    "action": "suspend operations in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Stanley Black &amp; Decker",
+    "action": "suspend operations in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "State Street",
+    "action": "curtail Russian access to capital markets",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Swarovski",
+    "action": "suspend all sales in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Take-Two Interactive",
+    "action": "suspend all sales in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "TJ Maxx",
+    "action": "divest Familia subsidiary",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "TripAdvisor",
+    "action": "remove Kremlin-linked propaganda and ads&nbsp;",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Uber",
+    "action": "divest from partnership with Yandex",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "UEFA",
+    "action": "ban Russian athletes from competing",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Uniper SE",
+    "action": "suspend new Russian gas purchases/divest Unipro",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "United Airlines",
+    "action": "no flying over Russian airspace",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Upwork",
+    "action": "suspend operations in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Vanguard",
+    "action": "suspend operations in Russia&nbsp;",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Waitrose",
+    "action": "remove products from Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "WeWork",
+    "action": "planning divestment of Russian operations",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "White &amp; Case",
+    "action": "wind down Russian operations",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Winston &amp; Strawn",
+    "action": "suspend operations in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Wintershall Dea AG",
+    "action": "exit Russian investments",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "Women's Tennis Association",
+    "action": "suspend Russian partnerships",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "World Athletics Council",
+    "action": "ban on all Russian competition",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "World Boxing Association",
+    "action": "ban on all Russian competition",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "World Boxing Council",
+    "action": "suspend Russia from title fights",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "World Boxing Organization&nbsp;",
+    "action": "ban on all Russian competition",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "World Federation of Exchanges",
+    "action": "suspend all Russian members and affiliates",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "World Rowing Federation",
+    "action": "ban on all Russian competition",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "World Rugby Union",
+    "action": "ban on all Russian competition",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "WPP PLC",
+    "action": "suspend all operations in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "WWE",
+    "action": "suspend all operations in Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "YOOX",
+    "action": "suspend all shipments to Russia",
+    "state": "#1.WITHDRAWAL",
+    "description": "Полный выход"
+  },
+  {
+    "title": "3M",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Abrdn",
+    "action": "suspend investments in Russia and reduce exposure",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Adidas",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Adobe",
+    "action": "suspend all sales in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "ADP&nbsp;",
+    "action": "suspend new sales/services to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Airbus",
+    "action": "suspend supply of parts to Aeroflot",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Akamai&nbsp;",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Akin Gump",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Alphabet",
+    "action": "suspend all operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Alstom",
+    "action": "suspend shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Amazon",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "American Express",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Amway",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Anheuser-Busch",
+    "action": "suspend all shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Apple",
+    "action": "suspend all sales&nbsp;",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Assicurazioni Generali",
+    "action": "exit Russia completely",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Aston Martin",
+    "action": "suspend all shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Atlas Copco",
+    "action": "suspend deliveries in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Atlassian",
+    "action": "suspend new software sales to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Bain",
+    "action": "suspend consulting for all Russian businesses",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Bank of China",
+    "action": "curtail Russian access to capital markets",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Bentley&nbsp;",
+    "action": "suspend all shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Boeing",
+    "action": "suspend operations in Russia/titanium purchases",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Bombardier",
+    "action": "restrict new Russian business",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Bose",
+    "action": "suspend all shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Bridgestone Tire",
+    "action": "suspend manufacturing in Russia and shipments into",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Budvar",
+    "action": "suspend all shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Burberry&nbsp;",
+    "action": "suspend all shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Burger King",
+    "action": "halt corporate support for franchises",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Canada Goose",
+    "action": "suspend all shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Canadian Tire",
+    "action": "close Russia stores",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Canon",
+    "action": "suspend deliveries in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Caterpillar",
+    "action": "suspend Russian manufacturing facilities",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "CBRE",
+    "action": "suspend new investments in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Chanel",
+    "action": "suspend all operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Chipperfield",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Cisco",
+    "action": "suspend all operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Citi",
+    "action": "expand the scope of the exit process",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Citrix",
+    "action": "suspend all sales to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Cleary Gottlieb",
+    "action": "suspend Russian operations&nbsp;&nbsp;",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Clorox",
+    "action": "suspend all business activity in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "CMA CGM",
+    "action": "suspend all shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Coca-Cola",
+    "action": "suspend certain operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Cogent Communications",
+    "action": "cut all internet to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Commerzbank",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Continental&nbsp;",
+    "action": "suspend operations at a factory",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Dassault Aviation",
+    "action": "suspend all shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Debevoise &amp; Plimpton",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Dell",
+    "action": "suspend all shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Deutsche Bank",
+    "action": "wind down business in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "DHL",
+    "action": "suspend all shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Diageo",
+    "action": "suspend all shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "DirecTV",
+    "action": "cut Kremlin backed TV networks",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Discover",
+    "action": "suspend efforts to establish Russian presence",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Disney",
+    "action": "pause new content releases",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "DSV A/S",
+    "action": "suspend all shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Ericsson",
+    "action": "suspend all shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Estee Lauder",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "FedEx",
+    "action": "suspend all shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Ferrari",
+    "action": "suspend sales in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Ford",
+    "action": "suspend joint ventures in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "GM",
+    "action": "suspend all shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Grupo Bimbo",
+    "action": "suspend Russian operations",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "H&amp;M",
+    "action": "suspend all shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Hapag Lloyd",
+    "action": "suspend all shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Harley-Davidson",
+    "action": "suspending all business in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Heidrick &amp; Struggles",
+    "action": "suspend all operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Heineken&nbsp;",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Herbalife",
+    "action": "suspend sales and shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Hermes",
+    "action": "suspend all operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Hitachi Construction",
+    "action": "suspend all shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "HMM&nbsp;",
+    "action": "suspend all shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Honda",
+    "action": "suspend all shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Honeywell",
+    "action": "suspend virtually all sales in Russia&nbsp;",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "HP Inc.",
+    "action": "suspend all shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "HP Enterprise (Independent from HP Inc.)",
+    "action": "suspend all shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Hyundai",
+    "action": "suspend manufacturing in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "IBM",
+    "action": "suspend technology sales to Russia on Feb 24",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Ikea",
+    "action": "suspend all operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Imperial Brands",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Indeed",
+    "action": "suspend service in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Inditex",
+    "action": "close Russian stores and suspend sales",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Intel",
+    "action": "suspend sales to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Intuit",
+    "action": "suspend customer accounts&nbsp;",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Iveco",
+    "action": "suspend deliveries to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Jaguar",
+    "action": "suspend all shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "JCB",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "JD Sports",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Johnson Controls",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Juniper Networks",
+    "action": "suspend sales in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "JYSK&nbsp;",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Kering",
+    "action": "close all stores in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Kinross Gold",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Komatsu",
+    "action": "suspend all shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Lego",
+    "action": "suspend all shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Leica Camera AG",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Levi Strauss",
+    "action": "suspend all sales in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Lexmark",
+    "action": "suspend shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "LG Electronics",
+    "action": "suspend all shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Lindt-Sprungli",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Logitech",
+    "action": "suspend shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "L'Oreal",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Louis Dreyfus&nbsp;",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Lumen",
+    "action": "cut networks to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "LVMH",
+    "action": "suspend all operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Maersk",
+    "action": "suspend all shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Magna",
+    "action": "suspend Russian plants",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Mango",
+    "action": "suspend direct operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Marks &amp; Spencer",
+    "action": "suspend all shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Mastercard",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Mattel",
+    "action": "suspend shipments into Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Mazda",
+    "action": "suspend all shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "McCain Foods",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "McCormick",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "McDonald's",
+    "action": "suspend direct operations/restaurants",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Mercedes-Benz",
+    "action": "suspend all shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Meta",
+    "action": "suspend Russian advertising",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Metso Outotec",
+    "action": "suspend all shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Mettler Toledo",
+    "action": "suspend all shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Microsoft",
+    "action": "suspend all operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Moncler",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Mothercare",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "MVRDV",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Neste Oyj",
+    "action": "suspend purchases of Russian oil",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "NHL&nbsp;",
+    "action": "pause all partnerships in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Nike",
+    "action": "suspend all operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Nintendo",
+    "action": "suspend all sales in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Nissan",
+    "action": "suspend all shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Nokia",
+    "action": "suspend all shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Nvidia",
+    "action": "suspend all sales in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Oracle",
+    "action": "suspend all operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Panasonic",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Papa John's",
+    "action": "suspend support for all Russian franchises",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Paramount",
+    "action": "pause new content releases to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Payoneer",
+    "action": "close Russian accounts",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Paypal",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Prada",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Preem AB",
+    "action": "suspend purchases of Russian oil",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Puma",
+    "action": "suspend all shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "PVH&nbsp;",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Qualcomm",
+    "action": "suspend shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Rabobank",
+    "action": "curtail Russian access to capital markets",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Raytheon&nbsp;",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Remitly Global",
+    "action": "stop accepting new users in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Richemont",
+    "action": "suspend all operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Ricoh",
+    "action": "suspend shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Rockwell Automation",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Rolls Royce",
+    "action": "suspend all shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Salesforce&nbsp;",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Samsonite International",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Samsung",
+    "action": "suspend all shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Sandvik",
+    "action": "suspend all operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "SAP&nbsp;",
+    "action": "suspend all sales to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Scandinavian Tobacco",
+    "action": "suspend most operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Scania",
+    "action": "suspend all sales in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Skoda",
+    "action": "suspend all production in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Snap",
+    "action": "suspend all sales to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "SonoSim",
+    "action": "suspend distributor relationship in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Sony",
+    "action": "pause release of new films in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Starbucks",
+    "action": "suspend all operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Stellantis",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Subaru",
+    "action": "suspend all shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Swatch",
+    "action": "suspend direct operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Sylvamo",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Thermo Fisher",
+    "action": "suspend sales and manufacturing in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "TikTok",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Timken",
+    "action": "suspend operations in Russia&nbsp;",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Toyota",
+    "action": "suspend all shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Trane Technologies",
+    "action": "suspend shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Trimble",
+    "action": "suspend all sales in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "TSMC",
+    "action": "suspend all shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Twitter",
+    "action": "suspend certain operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Under Armour",
+    "action": "suspend all shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Uniqlo/Fast Retailing",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Universal&nbsp;",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "UPS",
+    "action": "suspend all shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Valero Energy",
+    "action": "suspend purchases of Russian oil",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Valio",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Visa",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Viva Energy",
+    "action": "suspend purchases of Russian oil",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "VMWare",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Volkswagen",
+    "action": "suspend all shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Volvo",
+    "action": "suspend all shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "WarnerMedia",
+    "action": "pause new content releases",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Waters Corporation",
+    "action": "suspend sales and services in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Western Union",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Wise PLC",
+    "action": "suspend Russian partnerships",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Xerox",
+    "action": "suspend shipments to Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "YouTube",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "ZHA",
+    "action": "suspend operations in Russia",
+    "state": "#2. SUSPENSION",
+    "description": "Сохранение вариантов возврата"
+  },
+  {
+    "title": "Abbvie",
+    "action": "suspend aesthetics operations, pause new clinical trials",
+    "state": "#3. SCALING BACK",
+    "description": "Сокращение, частичное сворачивание деятельности"
+  },
+  {
+    "title": "Allianz",
+    "action": "meaningfully reduce exposure to Russia",
+    "state": "#3. SCALING BACK",
+    "description": "Сокращение, частичное сворачивание деятельности"
+  },
+  {
+    "title": "Amadeus IT Group",
+    "action": "suspend partnership with Aeroflot",
+    "state": "#3. SCALING BACK",
+    "description": "Сокращение, частичное сворачивание деятельности"
+  },
+  {
+    "title": "Authentic Brands Group - Reebok",
+    "action": "phased suspension of operations in Russia",
+    "state": "#3. SCALING BACK",
+    "description": "Сокращение, частичное сворачивание деятельности"
+  },
+  {
+    "title": "Bacardi",
+    "action": "paused exports to Russia but not domestic operations",
+    "state": "#3. SCALING BACK",
+    "description": "Сокращение, частичное сворачивание деятельности"
+  },
+  {
+    "title": "BNP Paribas",
+    "action": "suspend new business in Russia/curtail financing&nbsp;",
+    "state": "#3. SCALING BACK",
+    "description": "Сокращение, частичное сворачивание деятельности"
+  },
+  {
+    "title": "Bosch",
+    "action": "suspend some shipments and plants but not all",
+    "state": "#3. SCALING BACK",
+    "description": "Сокращение, частичное сворачивание деятельности"
+  },
+  {
+    "title": "Bunge",
+    "action": "suspend exports but continue certain domestic",
+    "state": "#3. SCALING BACK",
+    "description": "Сокращение, частичное сворачивание деятельности"
+  },
+  {
+    "title": "Carlsberg",
+    "action": "suspend exports and certain operations",
+    "state": "#3. SCALING BACK",
+    "description": "Сокращение, частичное сворачивание деятельности"
+  },
+  {
+    "title": "Coinbase",
+    "action": "block certain illicit Russian accounts but not all",
+    "state": "#3. SCALING BACK",
+    "description": "Сокращение, частичное сворачивание деятельности"
+  },
+  {
+    "title": "Deere",
+    "action": "suspend shipments into Russia only",
+    "state": "#3. SCALING BACK",
+    "description": "Сокращение, частичное сворачивание деятельности"
+  },
+  {
+    "title": "Dow",
+    "action": "suspend investments/some purchases but not all",
+    "state": "#3. SCALING BACK",
+    "description": "Сокращение, частичное сворачивание деятельности"
+  },
+  {
+    "title": "Elsevier",
+    "action": "suspended all sales except essential health products",
+    "state": "#3. SCALING BACK",
+    "description": "Сокращение, частичное сворачивание деятельности"
+  },
+  {
+    "title": "Fieldfisher",
+    "action": "suspend certain Russian relationships",
+    "state": "#3. SCALING BACK",
+    "description": "Сокращение, частичное сворачивание деятельности"
+  },
+  {
+    "title": "GE&nbsp;",
+    "action": "suspend certain operations but continue others",
+    "state": "#3. SCALING BACK",
+    "description": "Сокращение, частичное сворачивание деятельности"
+  },
+  {
+    "title": "Goldman Sachs",
+    "action": "wind down business in Russia but buy Russian debt",
+    "state": "#3. SCALING BACK",
+    "description": "Сокращение, частичное сворачивание деятельности"
+  },
+  {
+    "title": "HSBC",
+    "action": "curtail Russian access to capital markets",
+    "state": "#3. SCALING BACK",
+    "description": "Сокращение, частичное сворачивание деятельности"
+  },
+  {
+    "title": "ING NV",
+    "action": "curtail Russian access to capital markets",
+    "state": "#3. SCALING BACK",
+    "description": "Сокращение, частичное сворачивание деятельности"
+  },
+  {
+    "title": "JPMorgan",
+    "action": "wind down business in Russia but buy Russian debt",
+    "state": "#3. SCALING BACK",
+    "description": "Сокращение, частичное сворачивание деятельности"
+  },
+  {
+    "title": "Kearney",
+    "action": "suspend certain operations in Russia",
+    "state": "#3. SCALING BACK",
+    "description": "Сокращение, частичное сворачивание деятельности"
+  },
+  {
+    "title": "Michelin Tire",
+    "action": "halting production at some plants/reviews",
+    "state": "#3. SCALING BACK",
+    "description": "Сокращение, частичное сворачивание деятельности"
+  },
+  {
+    "title": "Miele",
+    "action": "suspend operations except exempt healthcare",
+    "state": "#3. SCALING BACK",
+    "description": "Сокращение, частичное сворачивание деятельности"
+  },
+  {
+    "title": "Nalco Water (Ecolab)",
+    "action": "suspended services except services critical to health&nbsp;",
+    "state": "#3. SCALING BACK",
+    "description": "Сокращение, частичное сворачивание деятельности"
+  },
+  {
+    "title": "Natura",
+    "action": "suspend some subsidiary operations but not all",
+    "state": "#3. SCALING BACK",
+    "description": "Сокращение, частичное сворачивание деятельности"
+  },
+  {
+    "title": "NielsenIQ",
+    "action": "suspend consulting service but not core business",
+    "state": "#3. SCALING BACK",
+    "description": "Сокращение, частичное сворачивание деятельности"
+  },
+  {
+    "title": "Nokian Tyres",
+    "action": "meaningfully reduce production in Russia",
+    "state": "#3. SCALING BACK",
+    "description": "Сокращение, частичное сворачивание деятельности"
+  },
+  {
+    "title": "Oriflame Cosmetics",
+    "action": "suspend online sales to end consumers but not others",
+    "state": "#3. SCALING BACK",
+    "description": "Сокращение, частичное сворачивание деятельности"
+  },
+  {
+    "title": "Pepsi",
+    "action": "suspend operations in Russia except essentials",
+    "state": "#3. SCALING BACK",
+    "description": "Сокращение, частичное сворачивание деятельности"
+  },
+  {
+    "title": "Sidley Austin",
+    "action": "suspend services for all Kremlin entities",
+    "state": "#3. SCALING BACK",
+    "description": "Сокращение, частичное сворачивание деятельности"
+  },
+  {
+    "title": "Skadden",
+    "action": "suspend certain operations in Russia but not all",
+    "state": "#3. SCALING BACK",
+    "description": "Сокращение, частичное сворачивание деятельности"
+  },
+  {
+    "title": "Whirlpool",
+    "action": "limiting production in Russia",
+    "state": "#3. SCALING BACK",
+    "description": "Сокращение, частичное сворачивание деятельности"
+  },
+  {
+    "title": "Abbott Labs",
+    "action": "suspend non-essential business activity",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Accor",
+    "action": "suspend new investments/development",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "ADM",
+    "action": "unspecified scaling down of non-essential operations",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Air Liquide",
+    "action": "suspend investment/development but not operations",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "AmerisourceBergen",
+    "action": "suspend new business initiatives but continue existing",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Arconic",
+    "action": "suspend new contracts but continue existing",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Baker Hughes",
+    "action": "suspend new investments/development",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Barilla",
+    "action": "suspend new investments/advertising",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "BASF SE",
+    "action": "suspend new Russian relationships but not existing",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Bayer",
+    "action": "suspend non-essential business activity",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Cargill",
+    "action": "unspecified scaling down of non-essential operations",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Colgate-Palmolive",
+    "action": "continue essential health and hygiene products",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Coty",
+    "action": "suspend new investments and advertising only",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Danone",
+    "action": "suspend new investment in Russia only",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Dunkin Donuts&nbsp;",
+    "action": "suspend new investments and developments only",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Focus Brands - Cinnabon",
+    "action": "suspend new investments/development",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "General Mills",
+    "action": "suspend capital investments/advertising for JV",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "GlaxoSmithKline",
+    "action": "suspend advertising/new clinical trials in Russia",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Halliburton",
+    "action": "suspend future business in Russia",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Henkel",
+    "action": "suspend investments in Russia",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Hilton",
+    "action": "suspend new investments/close corporate office",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Hines",
+    "action": "suspend new investments in Russia",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Hyatt",
+    "action": "suspend investments and new developments",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Intercontinental Hotels",
+    "action": "suspend new investments/close corporate office",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Japan Tobacco",
+    "action": "suspend new investments in Russia",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Johnson &amp; Johnson",
+    "action": "pause patient enrollment in ongoing trials",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Kellogg",
+    "action": "suspend new investments/continue essential products",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Kimberly-Clark",
+    "action": "suspend new investments in Russia",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Kraft Heinz - JBS",
+    "action": "suspend new investments but not domestic operations",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Lamb Weston",
+    "action": "suspend new investments but not domestic operations",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Linde",
+    "action": "suspend new development/investments",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Marriott",
+    "action": "suspend new investment/close corp. office",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Mars",
+    "action": "suspend advertising/new investments in Russia",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Merck",
+    "action": "pause new investments/clinical trial enrollment",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Mohawk Industries",
+    "action": "suspend new investments in Russia",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Mondelez - Nabisco",
+    "action": "suspend new investments/advertising",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Nestle",
+    "action": "suspend new investments/advertising",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Norsk Hydro",
+    "action": "freeze Russian investments/no new contracts",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Otis Worldwide",
+    "action": "suspend new investments/new contracts",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Pfizer",
+    "action": "suspend new investments/clinical trials in Russia&nbsp;",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Philip Morris&nbsp;",
+    "action": "suspend new investments in Russia",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Pirelli",
+    "action": "suspend new investments in Russia",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Procter &amp; Gamble",
+    "action": "suspend new investment/advertising in Russia",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Reckitt Benckiser Group",
+    "action": "suspend new investments/advertising in Russia",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Sanofi",
+    "action": "suspend new investment/advertising in Russia",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Schlumberger",
+    "action": "suspend new investments/development",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Schneider Electric",
+    "action": "suspend new investments in Russia",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Siemens",
+    "action": "freeze new business in Russia",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Siemens Energy AG (Independent)",
+    "action": "freeze new business in Russia",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Subway",
+    "action": "suspend new investments/advertising",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "TotalEnergies",
+    "action": "suspend new investmenta in Russia&nbsp;",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Trafigura",
+    "action": "suspend new investments in Russia",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Unilever",
+    "action": "suspend new investments but not domestic operations",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Weatherford International",
+    "action": "suspend new investments/deployments in Russia",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "Yum Brands",
+    "action": "suspend new investments in Russia",
+    "state": "#4. BUYING TIME",
+    "description": "Приостановка новых инвестиций и расширения деятельности"
+  },
+  {
+    "title": "AstraZeneca",
+    "action": "250 staff and Kaluga production facility&nbsp;",
+    "state": "#5. DIGGING IN",
+    "description": "Пренебрежение требованиями о выходе из России"
+  },
+  {
+    "title": "Asus",
+    "action": "not disclosed publicly",
+    "state": "#5. DIGGING IN",
+    "description": "Пренебрежение требованиями о выходе из России"
+  },
+  {
+    "title": "Auchan-Retail",
+    "action": "$3.5 billion in revenue from Russia",
+    "state": "#5. DIGGING IN",
+    "description": "Пренебрежение требованиями о выходе из России"
+  },
+  {
+    "title": "Ball Corporation",
+    "action": "3 plants in Russia",
+    "state": "#5. DIGGING IN",
+    "description": "Пренебрежение требованиями о выходе из России"
+  },
+  {
+    "title": "Calfrac Well Services",
+    "action": "11% of revenues from Russia",
+    "state": "#5. DIGGING IN",
+    "description": "Пренебрежение требованиями о выходе из России"
+  },
+  {
+    "title": "Cersanit",
+    "action": "sanitation equipment exports&nbsp;",
+    "state": "#5. DIGGING IN",
+    "description": "Пренебрежение требованиями о выходе из России"
+  },
+  {
+    "title": "Cloudflare",
+    "action": "not disclosed publicly&nbsp;",
+    "state": "#5. DIGGING IN",
+    "description": "Пренебрежение требованиями о выходе из России"
+  },
+  {
+    "title": "Credit Suisse",
+    "action": "$1 billion in net exposure to Russia",
+    "state": "#5. DIGGING IN",
+    "description": "Пренебрежение требованиями о выходе из России"
+  },
+  {
+    "title": "Decathlon",
+    "action": "at least 50 stores in Russia, $300MM revenue",
+    "state": "#5. DIGGING IN",
+    "description": "Пренебрежение требованиями о выходе из России"
+  },
+  {
+    "title": "Emerson Electric",
+    "action": "Metram subsidiary in Chelyabinsk",
+    "state": "#5. DIGGING IN",
+    "description": "Пренебрежение требованиями о выходе из России"
+  },
+  {
+    "title": "Emirates Airlines",
+    "action": "not disclosed publicly",
+    "state": "#5. DIGGING IN",
+    "description": "Пренебрежение требованиями о выходе из России"
+  },
+  {
+    "title": "Fortive",
+    "action": "not disclosed publicly",
+    "state": "#5. DIGGING IN",
+    "description": "Пренебрежение требованиями о выходе из России"
+  },
+  {
+    "title": "Geberit",
+    "action": "2% of revenue from Russia&nbsp;",
+    "state": "#5. DIGGING IN",
+    "description": "Пренебрежение требованиями о выходе из России"
+  },
+  {
+    "title": "Glencore",
+    "action": "equity investments in Rosneft and others",
+    "state": "#5. DIGGING IN",
+    "description": "Пренебрежение требованиями о выходе из России"
+  },
+  {
+    "title": "Greif",
+    "action": "9 plants in Russia",
+    "state": "#5. DIGGING IN",
+    "description": "Пренебрежение требованиями о выходе из России"
+  },
+  {
+    "title": "Gruma",
+    "action": "9 plants in Russia, Greif Perm and Greif Vologda in Russia",
+    "state": "#5. DIGGING IN",
+    "description": "Пренебрежение требованиями о выходе из России"
+  },
+  {
+    "title": "ID Logistics",
+    "action": "significant Russian subsidiary",
+    "state": "#5. DIGGING IN",
+    "description": "Пренебрежение требованиями о выходе из России"
+  },
+  {
+    "title": "International Paper",
+    "action": "significant Russian joint venture",
+    "state": "#5. DIGGING IN",
+    "description": "Пренебрежение требованиями о выходе из России"
+  },
+  {
+    "title": "IPG Photonics",
+    "action": "high power laser sales in Russia",
+    "state": "#5. DIGGING IN",
+    "description": "Пренебрежение требованиями о выходе из России"
+  },
+  {
+    "title": "Koch Industries",
+    "action": "several business lines in Russia",
+    "state": "#5. DIGGING IN",
+    "description": "Пренебрежение требованиями о выходе из России"
+  },
+  {
+    "title": "Leroy Merlin",
+    "action": "$4 billion in revenue from Russia",
+    "state": "#5. DIGGING IN",
+    "description": "Пренебрежение требованиями о выходе из России"
+  },
+  {
+    "title": "Liebrecht &amp; Wood",
+    "action": "commercial real estate in Russia",
+    "state": "#5. DIGGING IN",
+    "description": "Пренебрежение требованиями о выходе из России"
+  },
+  {
+    "title": "Manitowoc",
+    "action": "significant sales to Russia",
+    "state": "#5. DIGGING IN",
+    "description": "Пренебрежение требованиями о выходе из России"
+  },
+  {
+    "title": "Metro",
+    "action": "$3 billion in revenue&nbsp;",
+    "state": "#5. DIGGING IN",
+    "description": "Пренебрежение требованиями о выходе из России"
+  },
+  {
+    "title": "Polpharma",
+    "action": "investment in Akrikhin&nbsp;",
+    "state": "#5. DIGGING IN",
+    "description": "Пренебрежение требованиями о выходе из России"
+  },
+  {
+    "title": "PPG",
+    "action": "$150MM in revenue from Russia/paint facility in Lipetsk",
+    "state": "#5. DIGGING IN",
+    "description": "Пренебрежение требованиями о выходе из России"
+  },
+  {
+    "title": "Raiffeisen",
+    "action": "$25 billion in net exposure to Russia",
+    "state": "#5. DIGGING IN",
+    "description": "Пренебрежение требованиями о выходе из России"
+  },
+  {
+    "title": "Ralph Lauren",
+    "action": "at least 6 stores in Russia",
+    "state": "#5. DIGGING IN",
+    "description": "Пренебрежение требованиями о выходе из России"
+  },
+  {
+    "title": "Renault",
+    "action": "local workforce of 40,000 and 10% of revenues&nbsp;",
+    "state": "#5. DIGGING IN",
+    "description": "Пренебрежение требованиями о выходе из России"
+  },
+  {
+    "title": "Rockwool",
+    "action": "4 factories and 1200 employees (suspended some new investment)&nbsp;",
+    "state": "#5. DIGGING IN",
+    "description": "Пренебрежение требованиями о выходе из России"
+  },
+  {
+    "title": "SC Johnson",
+    "action": "manufacturing facility in Chudovo and sales&nbsp;",
+    "state": "#5. DIGGING IN",
+    "description": "Пренебрежение требованиями о выходе из России"
+  },
+  {
+    "title": "Societe Generale",
+    "action": "$20 billion in net exposure to Russia and 2.8% of income",
+    "state": "#5. DIGGING IN",
+    "description": "Пренебрежение требованиями о выходе из России"
+  },
+  {
+    "title": "Young Living",
+    "action": "distributors in Russia",
+    "state": "#5. DIGGING IN",
+    "description": "Пренебрежение требованиями о выходе из России"
+  }
+]
